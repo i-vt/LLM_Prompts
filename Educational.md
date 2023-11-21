@@ -3,7 +3,9 @@
 ## Coding Challanges
 
 ### Algorithms
-```Show me how to identify a sliding window problem, how to think when solving a sliding window problem, and sample python code that can be used as boilerplate for solving sliding window problems.```
+```
+Show me how to identify a sliding window problem, how to think when solving a sliding window problem, and sample python code that can be used as boilerplate for solving sliding window problems.
+```
 
 ### Cyber-Security Capture The Flag (CTF)
 Instructions:
