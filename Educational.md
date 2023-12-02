@@ -19,3 +19,27 @@ Sample prompt:
 In this CTF challange we are responding to an incident involving an APT compromising a mission-critical server. Provide a powershell script to isolate the intruder.
 ```
 
+
+### Course Outline
+```
+Write an outline for the following course:
+
+
+
+Essential foundations for any machine learning application are a basic statistical analysis of the data to be processed, a solid understanding of the mathematical foundations underpinning machine learning as well as the basic classes of learning/adaptation concepts. Those foundations are bundled in this single, introductory course to machine learning in preparation for deeper explorations into the topic, but also as a standalone unit.
+Learning Outcomes
+
+Upon successful completion, students will have the knowledge and skills to:
+
+    Develop an appreciation for what is involved in learning from data
+    Understand basic data wrangling and data exploration
+    Describe a variety of machine learning tasks: clustering, dimensionality reduction, regression and classification
+    Understand how to formalise practical problems in terms of above tasks
+    Interpret mathematical equations from linear algebra, calculus, statistics, and probability theory in terms of machine learning methods
+    Understand how to perform evaluation of and reflect on learning algorithms and model selection in practical problems
+```
+
+Book recommendations:
+```
+Recommend a book for this course
+```
